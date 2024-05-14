@@ -25,3 +25,6 @@ https://www.loom.com/share/2f58256f3e024fdaaa1e70687cb771f6?sid=7929f7c7-422b-49
 | ✅  | Thirdweb to interact with Ethereum network, deploy contracts, connect with wallet and more else                      |
 
 ## Project Images
+![Screenshots of the platform - Home](./home.jpeg)
+![Screenshots of the platform - Start Campaign Page](./start-campaign.jpeg)
+![Screenshots of the platform - My Campaigns Page](./my-campaigns.jpeg)
