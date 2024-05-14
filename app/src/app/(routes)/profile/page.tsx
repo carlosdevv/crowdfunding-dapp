@@ -7,7 +7,7 @@ const Profile = () => {
   const { isLoading, campaigns } = useProfile();
   return (
     <DisplayCampaigns
-      title="All Campaigns"
+      title="Your Campaigns"
       isLoading={isLoading}
       campaigns={campaigns}
     />
